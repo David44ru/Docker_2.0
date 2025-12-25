@@ -38,7 +38,8 @@
 
 # Задание 5
 
-<img width="942" height="313" alt="image" src="https://github.com/user-attachments/assets/f1ffbc1c-f1d6-46f4-8c50-83f45a9ef9ed" />
+<img width="1067" height="772" alt="image" src="https://github.com/user-attachments/assets/ec5d11b5-1f2c-4740-929c-cc31c7c19ade" />
+
 
 
 
