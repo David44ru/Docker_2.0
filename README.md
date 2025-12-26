@@ -1,7 +1,8 @@
 Пересыакин Д.В.
 
 # Задание 1 
-<img width="943" height="454" alt="image" src="https://github.com/user-attachments/assets/0ad5bd18-62a4-486b-a17b-f667b53c214f" />
+<img width="1088" height="534" alt="image" src="https://github.com/user-attachments/assets/714ed26b-8f79-4349-9280-f3bae7a7ab9e" />
+
 
 
 
