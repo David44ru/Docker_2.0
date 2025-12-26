@@ -14,16 +14,18 @@
 # Задание 3
 Проверка статистики с учетом лимитов
 
-<img width="861" height="59" alt="image" src="https://github.com/user-attachments/assets/2aba1d28-b721-4142-9be0-28689f732f23" />
+<img width="861" height="60" alt="image" src="https://github.com/user-attachments/assets/5e90ba85-525b-4705-bbef-5919eeeda227" />
 
 Обновление лимитов на работающем контейнере
 
-<img width="699" height="39" alt="image" src="https://github.com/user-attachments/assets/b2d17497-b204-430a-afb2-a788d5b60a05" />
+<img width="675" height="37" alt="image" src="https://github.com/user-attachments/assets/aba49c03-12d0-42ac-8783-6fe4a7ebf646" />
+
 
 
 Проверка статистики с учетом новых лимитов
 
-<img width="808" height="59" alt="image" src="https://github.com/user-attachments/assets/efd10d6b-6877-4656-aed8-cb049784a245" />
+<img width="850" height="52" alt="image" src="https://github.com/user-attachments/assets/d0ebad2a-2a02-4487-aff5-ec444e81483d" />
+
 
 
 # Задание 4
