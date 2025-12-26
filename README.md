@@ -31,12 +31,14 @@
 # Задание 4
 Проверка размера архива
 
-<img width="606" height="34" alt="image" src="https://github.com/user-attachments/assets/35258a59-5744-40a9-bbe3-50513d1d0987" />
+<img width="586" height="38" alt="image" src="https://github.com/user-attachments/assets/615538ac-e224-48c3-9566-d8b6ae83d573" />
+
 
 
 Просмотр содержимого архива
 
-<img width="705" height="382" alt="image" src="https://github.com/user-attachments/assets/ccc9264f-6c90-4428-b91d-42661a49fa82" />
+<img width="677" height="383" alt="image" src="https://github.com/user-attachments/assets/eb6097be-ea86-4711-8050-dc36ce94d19b" />
+
 
 
 
